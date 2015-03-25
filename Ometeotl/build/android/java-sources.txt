@@ -1,0 +1,8 @@
+"D:/KiLDRaX/Trabajos U/Programacion/TitaniumWrksp/Ometeotl/build/android/gen/android/support/v7/appcompat/R.java"
+"D:/KiLDRaX/Trabajos U/Programacion/TitaniumWrksp/Ometeotl/build/android/gen/co/edu/unipiloto/ometeotl/ApplicationStylesheet.java"
+"D:/KiLDRaX/Trabajos U/Programacion/TitaniumWrksp/Ometeotl/build/android/gen/co/edu/unipiloto/ometeotl/AssetCryptImpl.java"
+"D:/KiLDRaX/Trabajos U/Programacion/TitaniumWrksp/Ometeotl/build/android/gen/co/edu/unipiloto/ometeotl/R.java"
+"D:/KiLDRaX/Trabajos U/Programacion/TitaniumWrksp/Ometeotl/build/android/gen/co/edu/unipiloto/ometeotl/UniversidadPilotoActivity.java"
+"D:/KiLDRaX/Trabajos U/Programacion/TitaniumWrksp/Ometeotl/build/android/gen/co/edu/unipiloto/ometeotl/UniversidadPilotoAppInfo.java"
+"D:/KiLDRaX/Trabajos U/Programacion/TitaniumWrksp/Ometeotl/build/android/gen/co/edu/unipiloto/ometeotl/UniversidadPilotoApplication.java"
+"D:/KiLDRaX/Trabajos U/Programacion/TitaniumWrksp/Ometeotl/build/android/gen/ti/modules/titanium/ui/R.java"
