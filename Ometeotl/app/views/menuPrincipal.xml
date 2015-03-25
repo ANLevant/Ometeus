@@ -1,0 +1,18 @@
+<Alloy>
+	<Window>
+		<ImageView id="logoPiloto"/>
+		<ImageView id="facultad"/>
+		<Label id = "fondo"/>
+		<Label id = "noticia"/>
+		<Label id = "txtIngenieriaDeSistemas">Ingeniería de Sistemas</Label>
+		<ImageView id="registroYControl"/>
+		<Label id = "txtRegistroYControl">Registro y Control</Label>
+		<ImageView id="bienestarInstitucional"/>
+		<Label id = "txtBienestarInstitucional">Bienestar Institucional</Label>
+		<View class = "line"/>
+		<ImageView id ="facebook" onClick="redirectFacebook"/>
+		<ImageView id ="twitter" onClick="redirectTwitter"/>
+		<ImageView id ="instagram"/>
+	</Window>
+</Alloy>
+

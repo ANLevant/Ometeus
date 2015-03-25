@@ -1,0 +1,35 @@
+<Alloy>
+	<View class="container">
+		<ScrollableView>
+			<View id ="noticiasBienestar">
+				Acá van noticias de bienestar
+			</View>
+			<View id="bienestarInstitucional">
+				ACERCA DE BIENESTAR INSTITUCIONAL
+
+La Universidad cuenta con el Departamento de Bienestar Institucional, el cual promueve una formación integral, por medio de sus programas en las áreas de Salud, Cultura, Deportes, Promoción y Desarrollo y Programa de Orientación Universitaria – POU.
+Se prestan los servicios de: Medicina general, consulta médica especializada, consulta nutricional, consulta de optometría, consulta de psicología, fisioterapia, terapias respiratorias, laboratorio clínico, fonoaudiologías, audiometrías, curaciones e inyectología.
+
+Se realizan jornadas y campañas de promoción de la salud y prevención de la enfermedad, generación y transcripción de incapacidades, atención y remisión en caso de urgencias, asesoría médica y telefónica las 24 horas al teléfono 635 59 59 cod: 100417 ó al celular (310) 774 40 74, atención al personal docente, administrativo, estudiantes, familiares de los estudiantes y egresados.
+
+Adicionalmente se prestan todos los servicios en odontología y ortodoncia. El servicio médico y odontológico se presta de lunes a viernes de 9:00 a. m. a 9:00 p. m. y los sábados de 9:00 a. m. a 1:00 p. m. jornada continúa. 
+
+PROCEDIMIENTOS PARA ACCEDER A LOS SERVICIOS DE BIENESTAR INSTITUCIONAL
+
+La dirección de bienestar institucional en su proceso de evolución pone a disposición de toda la comunidad universitaria el manual de servicios universitarios el cual podrán encontrar en la página Web de universidad. El fin del manual es poner en conocimiento todas las actividades que bienestar institucional ofrece ya sea deportes, cultura, promoción y desarrollo o salud, con su debido espacio y procedimiento. Este manual se podrá descargar o imprimir según sea la necesidad del usuario, esperamos que les sea de mucha ayuda.
+			</View>
+			<View id="deportes">
+			</View>
+			<View id="cultura">
+			</View>
+			<View id="salud">
+			</View>
+			<View id="promocionYDesarrollo">
+			</View>
+			<View id="POU">
+			</View>
+			<View id="inscripcionAServicios">
+			</View>
+		</ScrollableView>
+	</View>
+</Alloy>

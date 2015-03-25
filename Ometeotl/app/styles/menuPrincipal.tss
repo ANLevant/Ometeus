@@ -1,0 +1,67 @@
+
+"Window": 
+{
+ 	backgroundImage: "/images/menuPrincipal.jpg" 
+},
+
+"#noticia":
+{
+	top : "17%",
+    left : "-10%",
+    color : 'white',
+    text : '¡KFC Está regalando pollo!'
+},
+
+"#fondo":
+{
+	top : "17%",
+    width : "100%",
+    heigth : "30%",
+    backgroundColor: '#686868'
+},
+
+"#facultad":
+{
+	image:"/icons/IconoIngenieriaTransVerdeVeneno.png",
+	width:60,
+	height:60,
+	top: 100,
+	left: 30
+},
+
+"#registroYControl":
+{
+	image:"/icons/IconoRegistroTransVerdeVeneno.png",
+	width:60,
+	height:60,
+	top: 180,
+	left: 30
+},
+
+"#bienestarInstitucional":
+{
+	image:"/icons/IconoBienestarTransVerdeVeneno.png",
+	width:65,
+	height:50,
+	top: 260,
+	left: 30
+},
+
+"#txtBienestarInstitucional":
+{
+	top: 270,
+	left: 100
+},
+
+"#txtIngenieriaDeSistemas":
+{
+	top:110,
+	left:100
+},
+
+"#txtRegistroYControl":
+{
+	top:190,
+	left: 100
+}
+

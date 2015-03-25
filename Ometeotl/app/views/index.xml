@@ -1,0 +1,10 @@
+<Alloy>
+	<Window>
+		<ImageView id="LogoPilotoLogin"></ImageView>
+		<TextField id= "usuarioTxt"></TextField>
+		<ImageView id= "usuarioImg"></ImageView>
+		<TextField id= "contraseñaTxt"></TextField> 
+		<ImageView id= "contraseñaImg"></ImageView>
+		<Button id = "btnLoggear" onClick="ingresar"/>
+	</Window>
+</Alloy>

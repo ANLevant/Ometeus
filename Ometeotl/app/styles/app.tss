@@ -1,0 +1,57 @@
+"Label":
+{
+	color: '#000',
+	
+	font:
+	{
+		fontFamily: '/fonts/Arsenal-Bold',
+		fontSize: '18dp'
+	}	
+	
+},
+
+"#logoPiloto":
+{
+	image:"/icons/LogoUFondoVerdeVeneno.png",
+	width:60,
+	height:60,
+	top: 10,
+	left: 130
+},
+
+"#facebook":
+{
+	image:"/icons/FacebookVerdeVeneno.png",
+	width:40,
+	height:40,
+	bottom: 10,
+	left: 30
+},
+
+"#twitter":
+{
+	image:"/icons/Twitter-iconGreen.png",
+	width:40,
+	height:40,
+	bottom: 10,
+	left: 140
+},
+
+"#instagram":
+{
+	image:"/icons/InstagramGreen.png",
+	width:40,
+	height:40,
+	bottom: 10,
+	left: 240
+},
+
+".line":
+{
+	height: '2dp',
+	bottom: '55dp',
+	left: '0dp',
+	right: '0dp',
+	borderWidth: '2',
+	borderColor:'#11C520',
+}

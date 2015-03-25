@@ -1,0 +1,73 @@
+
+"Window":
+{
+	navBarHidden : true,
+	backgroundImage: "/images/puenteIlustradoLinea.png"
+},
+
+"TextField":
+{
+	width: "50%",
+	height: "10%"
+},
+
+"#usuarioTxt":
+{
+	//hintText: "Usuario",
+	//textAlign : 'right',
+	//backgroundImage: "/icons/usuario.png",
+	top: "51%",
+	left: "48%",
+	width: "38%"
+},
+
+"#contraseñaTxt":
+{
+	//hintText: "Contraseña",
+	//textAlign : Titanium.UI.TEXT_ALIGNMENT_RIGHT,
+	//backgroundImage: "/icons/contrasena.png",
+	passwordMask: true,
+	top: "59%",
+	left: "51%",
+	width: "36%"	
+},
+
+"#usuarioImg":
+{
+	top: "52%",
+	left: "19%",
+	height: "8%",
+	width: "30%",
+	image: '/icons/usuario.png'
+},
+
+"#contraseñaImg":
+{
+	top: "60%",
+	left: "20%",
+	height: "8%",
+	width: "32%",
+	image: '/icons/contrasena.png'
+},
+
+"#LogoPilotoLogin":
+{
+	
+	image: '/icons/logoDiana.png',
+	height: "25%",
+	width: "40%",
+	top: "14%"
+}, 
+
+"#btnLoggear":
+{
+	top: "75%",
+	height: "10%",
+	width: "50%",
+    backgroundImage: '/icons/botonIngresar.png',
+    font:
+	{
+		fontFamily: '/fonts/Arsenal-Bold',
+	}
+	
+},
