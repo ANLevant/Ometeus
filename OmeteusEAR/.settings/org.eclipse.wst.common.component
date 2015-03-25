@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="OmeteusEAR">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="OmeteusDTO.jar" deploy-path="/" handle="module:/resource/OmeteusDTO/OmeteusDTO">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="OmeteusPersistence.jar" deploy-path="/" handle="module:/resource/OmeteusPersistence/OmeteusPersistence">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="JAXRS-Ometeus.war" deploy-path="/" handle="module:/resource/JAXRS-Ometeus/JAXRS-Ometeus">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="OmeteusPortalNoticias.war" deploy-path="/" handle="module:/resource/OmeteusPortalNoticias/OmeteusPortalNoticias">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>
